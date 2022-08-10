@@ -1,3 +1,4 @@
+// 다른 계정으로 올려버려서 다시 올림
 function createStroe(worker) {
   let state;
   let handlers = [];
